@@ -1,0 +1,41 @@
+black-spot-alert/
+│
+├── ml/
+│   ├── accidents.csv          ← your dataset
+│   ├── train.py               ← DBSCAN + risk scoring
+│   ├── visualize.py           ← Folium map to check clusters
+│   └── blackspots.db          ← output (SQLite)
+│
+├── api/
+│   └── main.py                ← FastAPI server
+│
+└── mobile/
+    └── BlackSpotAlert/        ← Expo React Native app
+        └── App.js
+
+
+
+black-spot-alert-app/
+├── android-app/             <-- MOBILE PILLAR (React Native / Expo)
+│   ├── assets/              <-- Images, icons, and custom sounds
+│   ├── src/                 <-- source code for the android app whether in java or react-native
+│   
+├── api/
+|   ├── main.py              <-- this file is will contain the FastAPI script
+|
+├── ml-engine/               <-- DATA SCIENCE PILLAR (Python)
+│   ├── .venv/               <-- Local Virtual Env (ignored by git)
+│   ├── data/                
+│   │   ├── raw/             <-- Original accident CSVs
+│   │   └── processed/       <-- Cleaned data & clustered results (JSON/CSV)
+│   ├── notebooks/           <-- Jupyter notebooks for DBSCAN experimentation
+│   ├── src/                 
+│   │   ├── clustering.py     <-- Main ML script
+|   |   ├── visualize.py      <-- Folium map to check clusters
+|   |   ├── train.py          <-- DBSCAN + risk scoring
+│   │   └── utils.py         
+│   └── requirements.txt     <-- Python dependencies (pandas, sklearn)
+│
+├── docs/                    <-- Architecture diagrams and Docs for developers
+├── .gitignore               <-- Global gitignore (covers .venv, node_modules, .expo)
+├── README.md                <-- Project overview and team credits

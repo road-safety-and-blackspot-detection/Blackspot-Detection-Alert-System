@@ -1,0 +1,1 @@
+This folder will contain assets --> Images, icons, and custom sounds
