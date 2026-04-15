@@ -1,20 +1,6 @@
-black-spot-alert/
-│
-├── ml/
-│   ├── accidents.csv          ← your dataset
-│   ├── train.py               ← DBSCAN + risk scoring
-│   ├── visualize.py           ← Folium map to check clusters
-│   └── blackspots.db          ← output (SQLite)
-│
-├── api/
-│   └── main.py                ← FastAPI server
-│
-└── mobile/
-    └── BlackSpotAlert/        ← Expo React Native app
-        └── App.js
 
-
-
+Project Folder Structure
+------------------------------------------------------------------------------------------------------------
 black-spot-alert-app/
 ├── android-app/             <-- MOBILE PILLAR (React Native / Expo)
 │   ├── assets/              <-- Images, icons, and custom sounds
@@ -39,3 +25,4 @@ black-spot-alert-app/
 ├── docs/                    <-- Architecture diagrams and Docs for developers
 ├── .gitignore               <-- Global gitignore (covers .venv, node_modules, .expo)
 ├── README.md                <-- Project overview and team credits
+------------------------------------------------------------------------------------------------------------
