@@ -1,1 +1,0 @@
-whatever tech stack you choose, create all dependencies and main android files here

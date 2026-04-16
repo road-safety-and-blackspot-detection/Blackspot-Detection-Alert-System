@@ -2,7 +2,7 @@
 Project Folder Structure
 ------------------------------------------------------------------------------------------------------------
 black-spot-alert-app/
-├── android-app/             <-- MOBILE PILLAR (React Native / Expo)
+├── mobile-app/             <-- MOBILE PILLAR (React Native / Expo)
 │   ├── assets/              <-- Images, icons, and custom sounds
 │   ├── src/                 <-- source code for the android app whether in java or react-native
 │   
