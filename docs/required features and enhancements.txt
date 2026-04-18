@@ -1,0 +1,5 @@
+In mobile app we can add some major key screens
+1. Map Screen     → Live map with heatmap overlay of black spots
+2. Alert Screen   → Full-screen warning when entering danger zone
+3. Route Screen   → Show safer alternate routes
+4. Dashboard      → Accident stats for an area
