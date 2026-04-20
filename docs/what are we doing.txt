@@ -2,3 +2,7 @@ Project is based on Statement 88.
 Black Spot Alerts for Travelers
 Problem Statement: Develop an ML-based mobile app to alert travellers of accident-prone areas (black spots).
 Problem Description: Safety-conscious travel requires real-time risk alerts. An ML model using clustering and geospatial analysis can identify black spots from historical accident data and send alerts to users approaching high-risk areas
+
+
+Expected workflow:
+ml-model --> api ---> app
