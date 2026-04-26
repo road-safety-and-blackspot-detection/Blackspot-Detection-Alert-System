@@ -28,29 +28,36 @@ npx expo start
 ## Git First Time Setup
 
 ```bash
-# Always start from main
-git checkout main
+# Always start from main (switch to main branch)
+git switch main 
 git pull origin main
 
-# Create your own branch
-git checkout -b feature/your-own-branch-name
+# Create your own branch and switch to it
+git switch -c feature/your-own-branch-name
 
 # Work normally and Save your work
 git add .
 git commit -m "Add small description"
-git push origin feature/your-own-branch-name
+git push -u origin feature/your-branch-name
+# -u links branch → so next time push is easier
 ```
 
 
 ## Daily Workflow before coding anything
 ```bash
-git checkout main
+# Go to main and get latest changes
+git switch main
 git pull origin main
-git checkout your-branch
+
+# Switch back to your branch
+git switch your-branch
+
+# Update your branch with latest main (IMPORTANT)
+git merge main
 ```
 ## Daily Workflow after editing files
 ```bash
 git add .
 git commit -m "Add small description"
-git push origin feature/my-own-branch-name
+git push 
 ```
