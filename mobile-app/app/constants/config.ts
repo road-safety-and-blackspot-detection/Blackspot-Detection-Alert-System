@@ -1,0 +1,8 @@
+export const CONFIG = {
+  API_URL: "http://YOUR_LOCAL_IP:8000",   // replace with your laptop IP
+  ALERT_RADIUS_M: 500,
+  HIGH_RISK_THRESHOLD: 70,
+  MEDIUM_RISK_THRESHOLD: 40,
+  POLL_INTERVAL_MS: 5000,
+  SIMULATION_SPEED_MS: 1000,
+} as const;

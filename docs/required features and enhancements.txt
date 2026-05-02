@@ -3,3 +3,4 @@ In mobile app we can add some major key screens
 2. Alert Screen   → Full-screen warning when entering danger zone
 3. Route Screen   → Show safer alternate routes
 4. Dashboard      → Accident stats for an area
+5. Simulation mode → To showcase the features of our app we will add a simualtion mode or simualtion tab which will allow us to explore the feature of app without travelling anywhere
