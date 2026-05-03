@@ -1,0 +1,105 @@
+{
+  "weather_risk": [
+    {
+      "Weather Conditions": "Clear",
+      "avg_severity": 1.997,
+      "n": 26426
+    },
+    {
+      "Weather Conditions": "Foggy",
+      "avg_severity": 2.003,
+      "n": 26137
+    },
+    {
+      "Weather Conditions": "Rainy",
+      "avg_severity": 1.996,
+      "n": 26562
+    },
+    {
+      "Weather Conditions": "Snowy",
+      "avg_severity": 2.004,
+      "n": 26249
+    },
+    {
+      "Weather Conditions": "Windy",
+      "avg_severity": 1.995,
+      "n": 26626
+    }
+  ],
+  "road_type_risk": [
+    {
+      "Road Type": "Highway",
+      "avg_severity": 1.999,
+      "n": 43920
+    },
+    {
+      "Road Type": "Main Road",
+      "avg_severity": 1.999,
+      "n": 44197
+    },
+    {
+      "Road Type": "Street",
+      "avg_severity": 1.999,
+      "n": 43883
+    }
+  ],
+  "cause_risk": [
+    {
+      "Accident Cause": "Distracted Driving",
+      "avg_severity": 2.007,
+      "n": 26460
+    },
+    {
+      "Accident Cause": "Drunk Driving",
+      "avg_severity": 1.999,
+      "n": 26506
+    },
+    {
+      "Accident Cause": "Mechanical Failure",
+      "avg_severity": 1.998,
+      "n": 26343
+    },
+    {
+      "Accident Cause": "Speeding",
+      "avg_severity": 1.997,
+      "n": 26446
+    },
+    {
+      "Accident Cause": "Weather",
+      "avg_severity": 1.994,
+      "n": 26245
+    }
+  ],
+  "speed_risk": [
+    {
+      "bin": "0-40",
+      "avg_severity": 2.003,
+      "n": 16099
+    },
+    {
+      "bin": "41-60",
+      "avg_severity": 1.994,
+      "n": 29361
+    },
+    {
+      "bin": "61-80",
+      "avg_severity": 1.998,
+      "n": 29277
+    },
+    {
+      "bin": "81-100",
+      "avg_severity": 2.001,
+      "n": 29261
+    },
+    {
+      "bin": "100+",
+      "avg_severity": 2.001,
+      "n": 28002
+    }
+  ],
+  "metadata": {
+    "source": "global_kaggle",
+    "total_rows": 132000,
+    "purpose": "feature weight calibration \u2014 no spatial data"
+  }
+}
