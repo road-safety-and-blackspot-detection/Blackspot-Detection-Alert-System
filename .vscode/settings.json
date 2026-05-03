@@ -1,0 +1,6 @@
+{
+    "python.envFile": "${workspaceFolder}/api/.env",
+    "python.analysis.extraPaths": [
+    "./ml-engine"
+  ]
+}
