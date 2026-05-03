@@ -26,3 +26,90 @@ black-spot-alert-app/
 ├── .gitignore               <-- Global gitignore (covers .venv, node_modules, .expo)
 ├── README.md                <-- Project overview and team credits
 ------------------------------------------------------------------------------------------------------------
+
+
+BLACK-SPOT/
+│
+├── ml-engine/                          ← All data science & ML work
+│   ├── data/
+│   │   ├── raw/                        ← Downloaded CSVs — never touch
+│   │   │   ├── kaggle_india/
+│   │   │   ├── india_mendeley/
+│   │   │   ├── morth/
+│   │   │   └── global/
+│   │   ├── processed/                  ← Output of preprocessing
+│   │   │   ├── cleaned.parquet
+│   │   │   └── featured.parquet
+│   │   └── outputs/                    ← Final ML artifacts
+│   │       ├── blackspots.json
+│   │       └── model_metadata.json
+│   │
+│   ├── notebooks/                      ← Exploration only, no logic
+│   │   ├── 01_eda.ipynb
+│   │   ├── 02_preprocessing.ipynb
+│   │   ├── 03_feature_engineering.ipynb
+│   │   └── 04_modeling.ipynb
+│   │
+│   ├── src/                            ← Production Python modules
+│   │   ├── __init__.py
+│   │   ├── data_ingestion.py           ← Load + merge all datasets
+│   │   ├── preprocessor.py             ← Clean data
+│   │   ├── feature_engineering.py      ← H3, time, weather features
+│   │   ├── osm_enricher.py             ← OpenStreetMap road geometry
+│   │   ├── weather_enricher.py         ← OpenWeatherMap live data
+│   │   ├── clustering.py               ← DBSCAN blackspot detection
+│   │   ├── risk_scorer.py              ← 0–100 risk index
+│   │   └── predictor.py                ← Serve predictions from model
+│   │
+│   ├── models/                         ← Saved model artifacts
+│   │   └── blackspot_model.pkl
+│   │
+│   ├── pipeline.py                     ← Run full ML pipeline in one command
+│   └── requirements.txt
+│
+├── api/                                ← FastAPI backend
+│   ├── main.py
+│   ├── routers/
+│   │   ├── __init__.py
+│   │   ├── blackspots.py               ← /nearby, /all
+│   │   ├── routes.py                   ← /route-risk
+│   │   └── weather.py                  ← /weather-risk
+│   ├── schemas/
+│   │   ├── __init__.py
+│   │   └── models.py                   ← Pydantic request/response models
+│   ├── services/
+│   │   ├── __init__.py
+│   │   ├── spatial.py                  ← Haversine, proximity queries
+│   │   └── weather_service.py          ← OpenWeatherMap calls
+│   ├── dependencies.py                 ← Load blackspots.json at startup
+│   └── requirements.txt
+│
+├── mobile-app/                         ← React Native Expo app
+│   ├── app/
+│   │   ├── (tabs)/
+│   │   │   ├── map.tsx                 ← Map screen
+│   │   │   ├── route.tsx               ← Route screen
+│   │   │   └── dashboard.tsx           ← Dashboard screen
+│   │   ├── screens/
+│   │   │   ├── AlertScreen.tsx         ← Full-screen alert
+│   │   │   └── SimulationScreen.tsx    ← Demo/simulation mode
+│   │   ├── components/
+│   │   │   ├── RiskZoneCircle.tsx
+│   │   │   ├── AlertBanner.tsx
+│   │   │   └── RiskBadge.tsx
+│   │   ├── services/
+│   │   │   └── api.ts                  ← All backend calls here
+│   │   ├── hooks/
+│   │   │   ├── useLocation.ts
+│   │   │   ├── useBlackspots.ts
+│   │   │   └── useWeather.ts
+│   │   └── constants/
+│   │       ├── colors.ts
+│   │       └── config.ts               ← API_URL, thresholds
+│   └── package.json
+│
+├── docs/                               ← Project report & diagrams
+│   └── architecture.md
+│
+├── .gitignore
+└── README.md
