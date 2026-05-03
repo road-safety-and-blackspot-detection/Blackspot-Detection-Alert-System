@@ -1,0 +1,16 @@
+{
+  "model_type": "DBSCAN",
+  "eps_meters": 300,
+  "min_samples": 3,
+  "total_input_rows": 5898,
+  "n_blackspots": 16,
+  "high_risk_count": 3,
+  "medium_risk_count": 4,
+  "low_risk_count": 9,
+  "risk_score_mean": 46.41,
+  "risk_score_max": 100.0,
+  "datasets_used": [
+    "mendeley_india_2022_2023",
+    "kaggle_india_synthetic"
+  ]
+}
