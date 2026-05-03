@@ -1,0 +1,501 @@
+latitude,longitude,severity,killed,injured,weather,road_type,road_condition,lighting,speed_limit,state,country,year,month,hour,cause,vehicle_type,crash_type,area_type,source
+18.27845745037488,76.00957388786227,4,4,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,January,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+24.543681356839087,84.28057070288547,4,6,18,unknown,nh,unknown,unknown,,Jharkhand,India,2022,January,-1,head on collision,pick up,head on collision,unknown,mendeley_india_2022_2023
+15.390068035586197,73.85497360324335,4,3,2,unknown,nh,unknown,unknown,,Goa,India,2022,January,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+13.067050304037062,80.27014333317551,3,1,0,unknown,or,unknown,unknown,,Tamil Nadu,India,2022,January,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+13.039775780916695,80.26465794801,3,1,1,unknown,or,unknown,unknown,,Tamil Nadu,India,2022,January,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+26.64362250050694,74.19299113226057,4,4,2,unknown,nh,unknown,unknown,,Rajasthan,India,2022,January,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+27.793665237757928,70.35519318244828,3,2,9,unknown,nh,unknown,unknown,,Rajasthan,India,2022,January,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+11.299962063279324,76.94191717015218,3,1,1,unknown,sh,unknown,unknown,,Tamil Nadu,India,2022,January,-1,hit from side,two wheeler,hit from side,unknown,mendeley_india_2022_2023
+25.808661598311467,71.40488769828872,3,1,0,unknown,nh,unknown,unknown,,Rajasthan,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+17.692782870071433,77.62231729628967,4,4,0,unknown,nh,unknown,unknown,,Telangana,India,2022,January,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+16.48884543363603,78.3091303972808,3,2,0,unknown,sh,unknown,unknown,,Telangana,India,2022,January,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+16.526195268882535,78.59603307218524,3,2,0,unknown,or,unknown,unknown,,Telangana,India,2022,January,-1,head on collision,auto rickshaw,head on collision,unknown,mendeley_india_2022_2023
+27.011963538352493,75.76932901260889,3,1,0,unknown,nh,unknown,unknown,,Rajasthan,India,2022,January,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+25.188347677151736,86.97434233075197,4,3,0,unknown,sh,unknown,unknown,,Bihar,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+25.242396484247,86.98888681844828,3,2,4,unknown,or,unknown,unknown,,Bihar,India,2022,January,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+29.47257166225623,77.71737212387585,3,2,2,unknown,sh,unknown,unknown,,Uttar Pradesh,India,2022,January,-1,others,bus,others,unknown,mendeley_india_2022_2023
+17.76444710552003,83.31365612724099,4,3,1,unknown,or,unknown,unknown,,Andhra Pradesh,India,2022,January,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+12.917305822072388,80.25066287055597,3,1,0,unknown,sh,unknown,unknown,,Tamil Nadu,India,2022,January,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+11.038158152772835,77.03756589670454,3,1,0,unknown,nh,unknown,unknown,,Tamil Nadu,India,2022,January,-1,hit from side,two wheeler,hit from side,unknown,mendeley_india_2022_2023
+18.991748018503824,73.03711475232855,3,1,1,unknown,nh,unknown,unknown,,Maharashtra,India,2022,January,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+18.976004872607675,73.03152779361652,3,1,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,January,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+16.572508890221638,75.9754540804605,3,1,4,unknown,sh,unknown,unknown,,Karnataka,India,2022,January,-1,others,car,others,unknown,mendeley_india_2022_2023
+14.89006685560942,76.22398648067914,3,1,7,unknown,sh,unknown,unknown,,Karnataka,India,2022,January,-1,vehicle overturn,car,vehicle overturn,unknown,mendeley_india_2022_2023
+13.066746957230484,77.50327116691861,3,1,0,unknown,sh,unknown,unknown,,Karnataka,India,2022,January,-1,with parked vehicle,two wheeler,with parked vehicle,unknown,mendeley_india_2022_2023
+13.040914155489356,77.61704511801918,3,1,1,unknown,nh,unknown,unknown,,Karnataka,India,2022,January,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+8.541149770701736,76.97003582907308,4,3,0,unknown,sh,unknown,unknown,,Kerala,India,2022,January,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+16.5081867897076,74.22019958556264,3,2,6,unknown,or,unknown,unknown,,Maharashtra,India,2022,January,-1,hit from side,truck,hit from side,unknown,mendeley_india_2022_2023
+22.776769204616333,71.72962248310266,3,2,0,unknown,sh,unknown,unknown,,Gujarat,India,2022,January,-1,run off road,car,run off road,unknown,mendeley_india_2022_2023
+21.97278752577793,70.78862073790624,3,2,0,unknown,nh,unknown,unknown,,Gujarat,India,2022,January,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+22.56034861853684,70.4258539831936,3,2,0,unknown,sh,unknown,unknown,,Gujarat,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+18.45072219760597,73.91614459634192,3,1,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,January,-1,hit from back,car,hit from back,unknown,mendeley_india_2022_2023
+18.486331175038483,73.79708554934217,3,1,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,January,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+29.794701671789223,77.83802738617437,3,2,1,unknown,or,unknown,unknown,,Uttarakhand,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+26.847744161614127,81.00770583339522,3,1,0,unknown,nh,unknown,unknown,,Uttar Pradesh,India,2022,January,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+26.23244327782419,82.075673988543,4,4,2,unknown,nh,unknown,unknown,,Uttar Pradesh,India,2022,January,-1,fixed object collision,suv,fixed object collision,unknown,mendeley_india_2022_2023
+22.69729187357254,75.90860390970307,3,1,2,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+22.43115195743422,75.61763951190622,3,1,0,unknown,nh,unknown,unknown,,Madhya Pradesh,India,2022,January,-1,run off road,two wheeler,run off road,unknown,mendeley_india_2022_2023
+9.478253797120738,76.63121917622244,3,1,0,unknown,or,unknown,unknown,,Kerala,India,2022,January,-1,run off road,auto rickshaw,run off road,unknown,mendeley_india_2022_2023
+26.172269871051377,79.96053447979006,4,3,0,unknown,sh,unknown,unknown,,Uttar Pradesh,India,2022,January,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+17.819637365225628,82.4917244273879,3,1,1,unknown,nh,unknown,unknown,,Andhra Pradesh,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+17.52559528053733,78.27114402473659,4,3,2,unknown,nh,unknown,unknown,,Telangana,India,2022,January,-1,fixed object collision,auto rickshaw,fixed object collision,unknown,mendeley_india_2022_2023
+12.93497388725656,77.53145535271094,3,2,0,unknown,sh,unknown,unknown,,Karnataka,India,2022,January,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+12.967955279692166,77.52407059158364,3,1,0,unknown,or,unknown,unknown,,Karnataka,India,2022,January,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+30.56554678240335,78.32522300136368,3,1,4,unknown,nh,unknown,unknown,,Uttarakhand,India,2022,January,-1,vehicle overturn,car,vehicle overturn,unknown,mendeley_india_2022_2023
+30.38157293024726,77.79771572590872,3,1,1,unknown,or,unknown,unknown,,Uttarakhand,India,2022,January,-1,run off road,car,run off road,unknown,mendeley_india_2022_2023
+12.858376301854657,77.52802094205354,4,4,0,unknown,or,unknown,unknown,,Karnataka,India,2022,January,-1,hit from back,suv,hit from back,unknown,mendeley_india_2022_2023
+23.059882776138668,72.52057320671621,3,1,0,unknown,nh,unknown,unknown,,Gujarat,India,2022,January,-1,hit from back,suv,hit from back,unknown,mendeley_india_2022_2023
+17.10266311413749,81.54442477542945,3,1,0,unknown,nh,unknown,unknown,,Andhra Pradesh,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+17.033617916586227,80.64713177640807,3,1,0,unknown,nh,unknown,unknown,,Andhra Pradesh,India,2022,January,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+20.31379687035904,74.66384510003404,4,4,14,unknown,sh,unknown,unknown,,Maharashtra,India,2022,January,-1,head on collision,bus,head on collision,unknown,mendeley_india_2022_2023
+22.17985011402323,71.65078918083432,4,5,10,unknown,sh,unknown,unknown,,Gujarat,India,2022,January,-1,hit and run,van,hit and run,unknown,mendeley_india_2022_2023
+17.716464062931237,83.20411089794794,3,1,0,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+22.15122333271011,71.65877930084991,4,5,10,unknown,nh,unknown,unknown,,Gujarat,India,2022,January,-1,others,van,others,unknown,mendeley_india_2022_2023
+21.644400876907135,82.34278934682449,3,1,5,unknown,nh,unknown,unknown,,Chhatisgarh,India,2022,January,-1,run off road,suv,run off road,unknown,mendeley_india_2022_2023
+19.9864533330699,73.78419165143977,3,1,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,January,-1,others,bicycle,others,unknown,mendeley_india_2022_2023
+12.879137929078608,77.4456388022993,4,6,0,unknown,nh,unknown,unknown,,Karnataka,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+18.46087329898162,73.82215405131329,3,1,1,unknown,nh,unknown,unknown,,Maharashtra,India,2022,January,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+12.52753677679566,76.3833438370817,3,2,1,unknown,or,unknown,unknown,,Karnataka,India,2022,January,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+26.589105945186247,74.85948627660595,3,1,1,unknown,nh,unknown,unknown,,Rajasthan,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+20.00678053729021,73.8291134262243,3,1,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+20.033277226299347,73.79524144570404,3,1,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,January,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+19.96973794288776,73.81769001774795,3,2,0,unknown,sh,unknown,unknown,,Maharashtra,India,2022,January,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+16.436925517988787,79.61217474801305,4,3,0,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,January,-1,run off road,car,run off road,unknown,mendeley_india_2022_2023
+12.889577748612352,77.56353894092923,3,1,1,unknown,or,unknown,unknown,,Karnataka,India,2022,January,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+28.49043013078424,77.08153241633956,3,1,0,unknown,nh,unknown,unknown,,Haryana,India,2022,January,-1,with parked vehicle,car,with parked vehicle,unknown,mendeley_india_2022_2023
+13.130457182123903,77.35974095043811,3,1,0,unknown,nh,unknown,unknown,,Karnataka,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+14.553328636829782,76.43302899167439,4,7,0,unknown,nh,unknown,unknown,,Karnataka,India,2022,January,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+12.874086694098173,77.54072195604662,3,1,1,unknown,or,unknown,unknown,,Karnataka,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+22.70824432220356,75.92920211827541,4,3,3,unknown,nh,unknown,unknown,,Madhya Pradesh,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+20.23465588078181,79.01543924056895,3,2,12,unknown,nh,unknown,unknown,,Maharashtra,India,2022,January,-1,head on collision,bus,head on collision,unknown,mendeley_india_2022_2023
+8.30188369743812,77.09326536242052,3,1,0,unknown,or,unknown,unknown,,Kerala,India,2022,January,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+22.64953470429659,88.43818561245637,3,1,0,unknown,or,unknown,unknown,,West Bengal,India,2022,January,-1,vehicle overturn,tractor,vehicle overturn,unknown,mendeley_india_2022_2023
+10.011092687874315,76.3421924153654,3,1,1,unknown,sh,unknown,unknown,,Kerala,India,2022,January,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+15.281550861387068,73.94696758933536,3,2,0,unknown,or,unknown,unknown,,Goa,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+27.11896896428953,73.67248311917048,4,5,2,unknown,nh,unknown,unknown,,Rajasthan,India,2022,January,-1,others,car,others,unknown,mendeley_india_2022_2023
+22.961108702798008,72.61966017499154,3,2,0,unknown,or,unknown,unknown,,Gujarat,India,2022,January,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+23.523684332362315,79.37929010088607,4,3,2,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,January,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+22.601570130287165,80.38020370045963,4,3,0,unknown,sh,unknown,unknown,,Madhya Pradesh,India,2022,January,-1,run off road,tractor,run off road,unknown,mendeley_india_2022_2023
+23.459623017585365,74.92905852422956,3,1,0,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,January,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+31.21441147347508,75.62514255479414,3,2,1,unknown,or,unknown,unknown,,Punjab,India,2022,January,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+25.484100715535924,81.97930524084148,3,1,0,unknown,sh,unknown,unknown,,Uttar Pradesh,India,2022,January,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+25.513167610968463,81.8661763224527,3,1,1,unknown,nh,unknown,unknown,,Uttar Pradesh,India,2022,January,-1,vehicle overturn,truck,vehicle overturn,unknown,mendeley_india_2022_2023
+19.121440192297,72.90781946380115,3,1,2,unknown,or,unknown,unknown,,Maharashtra,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+24.76730676338609,76.39400027518448,3,1,2,unknown,nh,unknown,unknown,,Rajasthan,India,2022,January,-1,others,nil,others,unknown,mendeley_india_2022_2023
+27.76748297692978,80.84767138661462,3,1,1,unknown,sh,unknown,unknown,,Uttar Pradesh,India,2022,January,-1,hit from side,two wheeler,hit from side,unknown,mendeley_india_2022_2023
+18.553896418910423,73.7243675904804,3,1,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,January,-1,run off road,two wheeler,run off road,unknown,mendeley_india_2022_2023
+19.17442005976027,72.85976934887162,3,2,1,unknown,or,unknown,unknown,,Maharashtra,India,2022,January,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+29.449454153821858,73.87581502395967,4,3,0,unknown,nh,unknown,unknown,,Rajasthan,India,2022,January,-1,head on collision,truck,head on collision,unknown,mendeley_india_2022_2023
+18.26150912534684,74.3476151574748,4,3,1,unknown,or,unknown,unknown,,Maharashtra,India,2022,January,-1,hit from back,car,hit from back,unknown,mendeley_india_2022_2023
+26.921072245843384,75.80705975340842,3,2,5,unknown,or,unknown,unknown,,Rajasthan,India,2022,January,-1,head on collision,bus,head on collision,unknown,mendeley_india_2022_2023
+18.687104227193668,83.61095538153519,3,1,0,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,January,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+18.77406040183497,84.17383431188013,3,1,0,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,January,-1,hit from side,pedestrian,hit from side,unknown,mendeley_india_2022_2023
+22.7741266742808,75.93616228783264,3,1,0,unknown,nh,unknown,unknown,,Madhya Pradesh,India,2022,January,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+23.056229102084117,72.54839248535511,3,1,1,unknown,nh,unknown,unknown,,Gujarat,India,2022,January,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+13.013395634204327,77.69952194675402,3,1,0,unknown,nh,unknown,unknown,,Karnataka,India,2022,January,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+18.496302418026232,73.97119797630161,3,1,2,unknown,nh,unknown,unknown,,Maharashtra,India,2022,January,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+21.28144345287941,86.69191416872226,4,6,20,unknown,or,unknown,unknown,,Odisha,India,2022,January,-1,hit from back,bus,hit from back,unknown,mendeley_india_2022_2023
+22.99894531519997,72.62465978696193,3,1,1,unknown,or,unknown,unknown,,Gujarat,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+15.53144664568562,73.82481100458244,3,2,0,unknown,nh,unknown,unknown,,Goa,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+18.68473490820972,74.11586934949585,4,5,5,unknown,sh,unknown,unknown,,Maharashtra,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+25.192410594168933,82.8270546312142,3,2,1,unknown,or,unknown,unknown,,Bihar,India,2022,January,-1,hit from side,pedestrian,hit from side,unknown,mendeley_india_2022_2023
+25.10276774054831,82.8672602963507,3,1,0,unknown,nh,unknown,unknown,,Uttar Pradesh,India,2022,January,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+22.637960655646225,75.86771888717327,3,1,2,unknown,nh,unknown,unknown,,Madhya Pradesh,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+23.04697914071979,72.56910733421006,3,1,1,unknown,or,unknown,unknown,,Gujarat,India,2022,January,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+18.60526606930425,73.75217758015306,3,1,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,January,-1,with parked vehicle,two wheeler,with parked vehicle,unknown,mendeley_india_2022_2023
+20.63715635920813,78.47350022936271,4,7,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,January,-1,vehicle overturn,car,vehicle overturn,unknown,mendeley_india_2022_2023
+13.032318332628448,80.03671137585036,3,1,1,unknown,nh,unknown,unknown,,Tamil Nadu,India,2022,January,-1,others,car,others,unknown,mendeley_india_2022_2023
+22.61203487217105,88.39303596485522,3,1,0,unknown,or,unknown,unknown,,West Bengal,India,2022,January,-1,others,bicycle,others,unknown,mendeley_india_2022_2023
+13.03254168175602,80.0371376290023,3,1,0,unknown,nh,unknown,unknown,,Tamil Nadu,India,2022,January,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+22.59474582753312,75.7003748573627,3,1,0,unknown,nh,unknown,unknown,,Madhya Pradesh,India,2022,January,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+30.85883681083785,75.48669577236953,3,1,2,unknown,or,unknown,unknown,,Punjab,India,2022,January,-1,with parked vehicle,auto rickshaw,with parked vehicle,unknown,mendeley_india_2022_2023
+23.293852728757138,77.43635540033472,3,1,0,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,January,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+16.080937609341778,80.15831819833785,3,2,1,unknown,nh,unknown,unknown,,Andhra Pradesh,India,2022,January,-1,others,car,others,unknown,mendeley_india_2022_2023
+19.883564516772523,72.68264417660346,3,1,5,unknown,or,unknown,unknown,,Maharashtra,India,2022,January,-1,head on collision,pedestrian,head on collision,unknown,mendeley_india_2022_2023
+20.608413591260497,79.85587713179397,3,2,2,unknown,nh,unknown,unknown,,Maharashtra,India,2022,January,-1,hit from side,car,hit from side,unknown,mendeley_india_2022_2023
+12.953940017532451,77.54359380855148,3,1,0,unknown,nh,unknown,unknown,,Karnataka,India,2022,January,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+15.75873311270647,79.67422646980734,3,2,1,unknown,nh,unknown,unknown,,Andhra Pradesh,India,2022,January,-1,hit from back,car,hit from back,unknown,mendeley_india_2022_2023
+23.53469623782937,77.22595938027769,3,1,3,unknown,nh,unknown,unknown,,Madhya Pradesh,India,2022,January,-1,fixed object collision,suv,fixed object collision,unknown,mendeley_india_2022_2023
+17.647684108050818,82.99488444844167,3,2,0,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,January,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+31.03747281688876,78.73627773458514,3,2,2,unknown,nh,unknown,unknown,,Uttarakhand,India,2022,January,-1,vehicle overturn,car,vehicle overturn,unknown,mendeley_india_2022_2023
+17.490912151289685,80.57321678720476,4,4,8,unknown,sh,unknown,unknown,,Telangana,India,2022,January,-1,others,pick up,others,unknown,mendeley_india_2022_2023
+15.903511995945667,74.55948072624453,3,1,1,unknown,or,unknown,unknown,,Karnataka,India,2022,January,-1,hit from back,pedestrian,hit from back,unknown,mendeley_india_2022_2023
+18.4954422867835,83.36932057015237,3,1,0,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,January,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+18.42803807145549,79.13507468317677,4,4,2,unknown,nh,unknown,unknown,,Telangana,India,2022,January,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+12.941901560510074,80.20647395762994,3,1,5,unknown,or,unknown,unknown,,Tamil Nadu,India,2022,January,-1,head on collision,truck,head on collision,unknown,mendeley_india_2022_2023
+26.448594325625667,80.343810933111,4,6,9,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,January,-1,others,pedestrian,others,unknown,mendeley_india_2022_2023
+13.235809378630744,80.16228431393661,3,2,0,unknown,or,unknown,unknown,,Tamil Nadu,India,2022,January,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+18.989326374345,79.08330736132393,4,3,0,unknown,or,unknown,unknown,,Telangana,India,2022,January,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+27.092451869286297,74.42748015803826,3,1,3,unknown,sh,unknown,unknown,,Rajasthan,India,2022,February,-1,run off road,car,run off road,unknown,mendeley_india_2022_2023
+25.792933776374102,72.1629058029464,3,1,0,unknown,or,unknown,unknown,,Rajasthan,India,2022,February,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+24.044934899671095,78.6394929061528,4,3,0,unknown,nh,unknown,unknown,,Madhya Pradesh,India,2022,February,-1,hit and run,car,hit and run,unknown,mendeley_india_2022_2023
+21.815346974057224,80.17806276395049,3,1,3,unknown,sh,unknown,unknown,,Madhya Pradesh,India,2022,February,-1,others,car,others,unknown,mendeley_india_2022_2023
+22.209325349494875,70.8009083158295,3,1,1,unknown,nh,unknown,unknown,,Gujarat,India,2022,February,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+22.68448170947923,75.86399687841984,3,1,0,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,February,-1,others,pedestrian,others,unknown,mendeley_india_2022_2023
+33.303370177922346,75.77549202867355,4,6,0,unknown,or,unknown,unknown,,Jammu,India,2022,February,-1,vehicle overturn,car,vehicle overturn,unknown,mendeley_india_2022_2023
+22.48983884444052,75.66671181495484,3,1,2,unknown,nh,unknown,unknown,,Madhya Pradesh,India,2022,February,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+12.293012045391656,76.2663866231776,3,2,2,unknown,or,unknown,unknown,,Karnataka,India,2022,February,-1,others,car,others,unknown,mendeley_india_2022_2023
+17.666465319754213,83.09425625830963,3,1,0,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,February,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+26.910703910916823,70.9337404020313,4,3,1,unknown,nh,unknown,unknown,,Rajasthan,India,2022,February,-1,others,suv,others,unknown,mendeley_india_2022_2023
+21.04061585241248,73.4061732227355,4,3,2,unknown,or,unknown,unknown,,Gujarat,India,2022,February,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+9.83194947142872,76.4244288982524,3,1,0,unknown,or,unknown,unknown,,Kerala,India,2022,February,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+9.929597110544416,76.31779942841041,3,1,0,unknown,nh,unknown,unknown,,Kerala,India,2022,February,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+22.68273981416625,72.90717749509794,3,1,1,unknown,nh,unknown,unknown,,Gujarat,India,2022,February,-1,others,truck,others,unknown,mendeley_india_2022_2023
+27.21585406766396,77.20152201303823,3,1,2,unknown,sh,unknown,unknown,,Rajasthan,India,2022,February,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+27.41685838705793,76.10444383342535,4,3,0,unknown,nh,unknown,unknown,,Rajasthan,India,2022,February,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+13.12297281283396,79.91173226564752,3,1,1,unknown,sh,unknown,unknown,,Tamil Nadu,India,2022,February,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+13.126032102413577,79.91089197828818,3,1,0,unknown,sh,unknown,unknown,,Tamil Nadu,India,2022,February,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+26.738629447023207,80.35052740128569,4,3,1,unknown,sh,unknown,unknown,,Uttar Pradesh,India,2022,February,-1,hit from side,car,hit from side,unknown,mendeley_india_2022_2023
+16.82089116931901,81.59278745690153,4,3,0,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,February,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+14.962623936340336,77.23330737491476,4,9,0,unknown,nh,unknown,unknown,,Andhra Pradesh,India,2022,February,-1,others,car,others,unknown,mendeley_india_2022_2023
+8.659199326714372,76.91968191971127,3,1,2,unknown,sh,unknown,unknown,,Kerala,India,2022,February,-1,fixed object collision,suv,fixed object collision,unknown,mendeley_india_2022_2023
+30.740356213706715,76.72431923906225,3,1,0,unknown,or,unknown,unknown,,Chandigarh,India,2022,February,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+22.746248516667844,75.7982094212455,3,1,1,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,February,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+23.05288443571828,76.59684714485893,3,1,0,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,February,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+19.97123485981148,73.81562224560645,3,1,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,February,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+30.2999631966134,79.5166363500949,4,3,0,unknown,or,unknown,unknown,,Uttarakhand,India,2022,February,-1,vehicle overturn,pick up,vehicle overturn,unknown,mendeley_india_2022_2023
+18.632492103607568,73.74157079427587,4,3,2,unknown,nh,unknown,unknown,,Maharashtra,India,2022,February,-1,with parked vehicle,car,with parked vehicle,unknown,mendeley_india_2022_2023
+17.760528885443883,83.35495694453758,3,1,2,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,February,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+31.591633638231283,78.03685723801158,4,3,0,unknown,or,unknown,unknown,,Himachal Pradesh,India,2022,February,-1,vehicle overturn,car,vehicle overturn,unknown,mendeley_india_2022_2023
+27.2138302972568,73.71605649545057,3,2,3,unknown,nh,unknown,unknown,,Rajasthan,India,2022,February,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+25.49987528377706,73.25112435658373,3,1,1,unknown,nh,unknown,unknown,,Rajasthan,India,2022,February,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+19.12471261878596,72.89574856667453,3,1,1,unknown,or,unknown,unknown,,Maharashtra,India,2022,February,-1,hit from back,bicycle,hit from back,unknown,mendeley_india_2022_2023
+23.004502500291743,71.15380897504323,4,3,2,unknown,sh,unknown,unknown,,Gujarat,India,2022,February,-1,run off road,suv,run off road,unknown,mendeley_india_2022_2023
+26.22754594175393,84.24243447792814,3,2,3,unknown,nh,unknown,unknown,,Bihar,India,2022,February,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+12.440200277367603,79.83599847114043,4,3,10,unknown,nh,unknown,unknown,,Tamil Nadu,India,2022,February,-1,with parked vehicle,van,with parked vehicle,unknown,mendeley_india_2022_2023
+9.156390493413303,76.73231340739379,4,3,4,unknown,sh,unknown,unknown,,Kerala,India,2022,February,-1,vehicle overturn,car,vehicle overturn,unknown,mendeley_india_2022_2023
+23.320313870253266,78.53019329464922,3,2,0,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,February,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+25.18714588010464,77.11115122253314,4,3,9,unknown,nh,unknown,unknown,,Rajasthan,India,2022,February,-1,run off road,suv,run off road,unknown,mendeley_india_2022_2023
+17.931285780564018,83.42356678931198,3,2,0,unknown,nh,unknown,unknown,,Andhra Pradesh,India,2022,February,-1,with parked vehicle,two wheeler,with parked vehicle,unknown,mendeley_india_2022_2023
+8.74283202760778,76.72160216889189,3,1,2,unknown,sh,unknown,unknown,,Kerala,India,2022,February,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+23.967751166911828,86.76956791098664,4,4,2,unknown,or,unknown,unknown,,Jharkhand,India,2022,February,-1,with parked vehicle,car,with parked vehicle,unknown,mendeley_india_2022_2023
+11.531926575865088,75.81252164202,3,1,2,unknown,or,unknown,unknown,,Kerala,India,2022,February,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+22.974129466237112,72.6534256375576,3,2,3,unknown,nh,unknown,unknown,,Gujarat,India,2022,February,-1,with parked vehicle,car,with parked vehicle,unknown,mendeley_india_2022_2023
+33.05115098808208,74.64351066713232,3,1,6,unknown,or,unknown,unknown,,Jammu,India,2022,February,-1,run off road,car,run off road,unknown,mendeley_india_2022_2023
+23.488212910200676,80.10769353179742,3,2,3,unknown,nh,unknown,unknown,,Gujarat,India,2022,February,-1,with parked vehicle,car,with parked vehicle,unknown,mendeley_india_2022_2023
+23.448803225439857,77.36161885815567,3,2,0,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,February,-1,hit and run,car,hit and run,unknown,mendeley_india_2022_2023
+17.23253687972608,79.69398413248594,4,4,0,unknown,or,unknown,unknown,,Telangana,India,2022,February,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+26.23693879193369,70.47955938658713,3,1,4,unknown,or,unknown,unknown,,Rajasthan,India,2022,February,-1,vehicle overturn,bus,vehicle overturn,unknown,mendeley_india_2022_2023
+14.838820326235735,75.3533581920594,3,2,30,unknown,nh,unknown,unknown,,Karnataka,India,2022,February,-1,run off road,bus,run off road,unknown,mendeley_india_2022_2023
+21.00119281715471,79.39828299234789,4,3,1,unknown,sh,unknown,unknown,,Maharashtra,India,2022,February,-1,run off road,car,run off road,unknown,mendeley_india_2022_2023
+24.50744282460239,74.54469995593209,3,1,4,unknown,or,unknown,unknown,,Rajasthan,India,2022,February,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+10.873262324653169,77.00665745816913,3,2,0,unknown,nh,unknown,unknown,,Tamil Nadu,India,2022,February,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+26.51961727992392,80.77002471393665,4,4,0,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,February,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+9.99484592411198,76.32019279535668,3,1,0,unknown,or,unknown,unknown,,Kerala,India,2022,February,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+22.78801212541457,86.03337294127007,4,3,0,unknown,or,unknown,unknown,,Jharkhand,India,2022,February,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+26.761340281072,75.74696895289894,4,5,0,unknown,sh,unknown,unknown,,Rajasthan,India,2022,February,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+18.785150637116026,73.34700081173162,4,4,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,February,-1,hit from back,car,hit from back,unknown,mendeley_india_2022_2023
+26.54020341108048,81.63236223814823,3,2,5,unknown,nh,unknown,unknown,,Uttar Pradesh,India,2022,February,-1,with parked vehicle,suv,with parked vehicle,unknown,mendeley_india_2022_2023
+13.126527581387272,78.11583179770683,4,4,2,unknown,nh,unknown,unknown,,Karnataka,India,2022,February,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+10.944913295408462,76.93881475047148,3,1,0,unknown,or,unknown,unknown,,Tamil Nadu,India,2022,February,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+25.19145275727694,83.02887846513721,4,6,0,unknown,sh,unknown,unknown,,Uttar Pradesh,India,2022,February,-1,with parked vehicle,car,with parked vehicle,unknown,mendeley_india_2022_2023
+22.56295765776425,88.35872928795361,3,1,0,unknown,or,unknown,unknown,,West Bengal,India,2022,February,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+22.540902886677657,88.34096360238837,3,1,0,unknown,or,unknown,unknown,,West Bengal,India,2022,February,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+22.71454402717872,75.87184933982203,4,4,5,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,February,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+21.108177205326385,81.72271029614801,4,6,5,unknown,or,unknown,unknown,,Chhattisgarh,India,2022,February,-1,fixed object collision,suv,fixed object collision,unknown,mendeley_india_2022_2023
+10.938080599081948,76.98016337449293,3,2,1,unknown,nh,unknown,unknown,,Tamil Nadu,India,2022,February,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+22.57898332625892,75.77721150442704,3,1,0,unknown,nh,unknown,unknown,,Madhya Pradesh,India,2022,February,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+12.869718563956598,79.087678239575,4,4,1,unknown,sh,unknown,unknown,,Tamil Nadu,India,2022,February,-1,hit from back,car,hit from back,unknown,mendeley_india_2022_2023
+27.568099266809718,72.2475957764855,3,2,2,unknown,nh,unknown,unknown,,Rajasthan,India,2022,February,-1,hit and run,car,hit and run,unknown,mendeley_india_2022_2023
+28.90148755626485,77.2051188885555,3,1,0,unknown,or,unknown,unknown,,Haryana,India,2022,February,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+18.188326947884857,79.91491551269137,4,4,4,unknown,nh,unknown,unknown,,Telangana,India,2022,February,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+24.9308253171582,73.82617210519453,4,3,0,unknown,nh,unknown,unknown,,Rajasthan,India,2022,February,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+27.482790115159805,75.3815748302894,3,2,6,unknown,or,unknown,unknown,,Rajasthan,India,2022,February,-1,head on collision,van,head on collision,unknown,mendeley_india_2022_2023
+21.22049960531919,82.40670193772387,4,4,0,unknown,nh,unknown,unknown,,Chhattisgarh,India,2022,February,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+25.589870746053077,84.25004814353804,4,5,10,unknown,nh,unknown,unknown,,Bihar,India,2022,February,-1,head on collision,suv,head on collision,unknown,mendeley_india_2022_2023
+25.19596716523665,75.84516315344385,4,9,0,unknown,nh,unknown,unknown,,Rajasthan,India,2022,February,-1,vehicle overturn,suv,vehicle overturn,unknown,mendeley_india_2022_2023
+24.92149865757436,92.7815669664388,3,1,3,unknown,nh,unknown,unknown,,Assam,India,2022,February,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+28.602052711144825,77.1348181091842,3,2,3,unknown,or,unknown,unknown,,Delhi,India,2022,February,-1,others,car,others,unknown,mendeley_india_2022_2023
+23.00544441957308,72.53338811590844,3,1,1,unknown,nh,unknown,unknown,,Gujarat,India,2022,February,-1,with parked vehicle,two wheeler,with parked vehicle,unknown,mendeley_india_2022_2023
+17.313601040235092,78.13928501548331,4,3,7,unknown,nh,unknown,unknown,,Telangana,India,2022,February,-1,others,car,others,unknown,mendeley_india_2022_2023
+19.83064800938073,73.82802256128227,3,1,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,February,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+30.81523877034962,76.17096503780348,3,1,1,unknown,or,unknown,unknown,,Punjab,India,2022,February,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+16.726270377838905,82.20194318234546,4,4,3,unknown,nh,unknown,unknown,,Andhra Pradesh,India,2022,February,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+14.08097302776957,78.06890620844874,4,3,0,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,February,-1,run off road,bus,run off road,unknown,mendeley_india_2022_2023
+26.38744492359492,73.53981947509264,3,2,0,unknown,sh,unknown,unknown,,Rajasthan,India,2022,February,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+29.057010000030036,80.1021978906326,4,14,2,unknown,nh,unknown,unknown,,Uttarakhand,India,2022,February,-1,vehicle overturn,pick up,vehicle overturn,unknown,mendeley_india_2022_2023
+23.45618762511605,75.88182763022814,3,2,1,unknown,sh,unknown,unknown,,Madhya Pradesh,India,2022,February,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+25.57615794018205,85.1604735245477,3,1,0,unknown,or,unknown,unknown,,Bihar,India,2022,February,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+25.60311850146915,85.15846727705956,3,1,0,unknown,or,unknown,unknown,,Bihar,India,2022,February,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+18.056694486628253,78.2584638520406,3,2,11,unknown,or,unknown,unknown,,Telangana,India,2022,February,-1,run off road,bus,run off road,unknown,mendeley_india_2022_2023
+27.158435724776187,78.06272867574049,3,2,7,unknown,sh,unknown,unknown,,Uttar Pradesh,India,2022,February,-1,others,car,others,unknown,mendeley_india_2022_2023
+29.75842648666641,78.54244677611753,4,3,2,unknown,nh,unknown,unknown,,Uttarakhand,India,2022,February,-1,vehicle overturn,car,vehicle overturn,unknown,mendeley_india_2022_2023
+28.315880502085022,75.42778059962849,4,3,0,unknown,sh,unknown,unknown,,Rajasthan,India,2022,February,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+27.015212450599027,71.70535690266628,4,3,2,unknown,nh,unknown,unknown,,Rajasthan,India,2022,February,-1,vehicle overturn,suv,vehicle overturn,unknown,mendeley_india_2022_2023
+30.9199903667924,75.88087428875404,3,1,1,unknown,or,unknown,unknown,,Punjab,India,2022,February,-1,vehicle overturn,two wheeler,vehicle overturn,unknown,mendeley_india_2022_2023
+17.329662439312923,78.27425994433521,3,2,0,unknown,nh,unknown,unknown,,Telangana,India,2022,February,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+20.33283598716889,73.88779870315513,3,1,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,February,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+20.628825370716992,74.03792201888484,3,1,0,unknown,sh,unknown,unknown,,Maharashtra,India,2022,February,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+22.64951001448067,75.88658250405783,3,1,0,unknown,sh,unknown,unknown,,Madhya Pradesh,India,2022,February,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+18.391701123992394,73.85593140292903,3,2,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,February,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+17.55375191054745,78.46363355451433,3,1,0,unknown,or,unknown,unknown,,Telangana,India,2022,February,-1,others,bicycle,others,unknown,mendeley_india_2022_2023
+28.59959351288085,76.91196809389415,3,2,2,unknown,or,unknown,unknown,,Delhi,India,2022,February,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+17.26200439015837,78.38814180946548,3,1,0,unknown,nh,unknown,unknown,,Telangana,India,2022,February,-1,vehicle overturn,two wheeler,vehicle overturn,unknown,mendeley_india_2022_2023
+18.91367527325495,73.17852135553856,3,1,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,February,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+16.263716185019536,74.47309535046699,4,4,0,unknown,sh,unknown,unknown,,Karnataka,India,2022,February,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+29.29006598210077,77.47378345407694,3,1,3,unknown,sh,unknown,unknown,,Uttar Pradesh,India,2022,February,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+21.26724764610783,81.62042269163943,4,4,24,unknown,or,unknown,unknown,,Chhatisgarh,India,2022,February,-1,vehicle overturn,van,vehicle overturn,unknown,mendeley_india_2022_2023
+26.294580894090394,83.09086815543051,4,5,1,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,February,-1,with parked vehicle,car,with parked vehicle,unknown,mendeley_india_2022_2023
+28.64373969635639,77.03230998622084,3,1,1,unknown,or,unknown,unknown,,Delhi,India,2022,February,-1,hit from side,two wheeler,hit from side,unknown,mendeley_india_2022_2023
+13.134571102347406,77.61675186207687,3,2,0,unknown,nh,unknown,unknown,,Karnataka,India,2022,February,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+13.035500082682866,77.58892000253744,3,1,0,unknown,nh,unknown,unknown,,Karnataka,India,2022,February,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+30.889187044063892,75.85126767384848,3,1,0,unknown,or,unknown,unknown,,Punjab,India,2022,February,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+12.923248510571252,80.16050952729643,3,1,0,unknown,or,unknown,unknown,,Tamil Nadu,India,2022,March,-1,hit from back,car,hit from back,unknown,mendeley_india_2022_2023
+19.846577303394984,73.97107766153536,3,1,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,March,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+18.77063933979836,73.36590938508034,3,1,22,unknown,nh,unknown,unknown,,Maharashtra,India,2022,March,-1,fixed object collision,truck,fixed object collision,unknown,mendeley_india_2022_2023
+12.967598908664984,77.51248898800186,3,1,0,unknown,or,unknown,unknown,,Karnataka,India,2022,March,-1,run off road,two wheeler,run off road,unknown,mendeley_india_2022_2023
+12.846453600857831,77.67215941964415,3,1,1,unknown,nh,unknown,unknown,,Karnataka,India,2022,March,-1,fixed object collision,van,fixed object collision,unknown,mendeley_india_2022_2023
+26.90193341448318,75.77265925901905,3,2,0,unknown,or,unknown,unknown,,Rajasthan,India,2022,March,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+17.286690427411575,74.18447132552234,3,1,3,unknown,nh,unknown,unknown,,Maharashtra,India,2022,March,-1,hit from back,car,hit from back,unknown,mendeley_india_2022_2023
+23.243281034929208,77.4730609770155,3,1,2,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,March,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+26.42795651556272,80.38381214859015,3,1,6,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,March,-1,hit from side,auto rickshaw,hit from side,unknown,mendeley_india_2022_2023
+18.63298730467365,73.74146182222104,3,1,2,unknown,nh,unknown,unknown,,Maharashtra,India,2022,March,-1,hit from back,car,hit from back,unknown,mendeley_india_2022_2023
+8.560349800808412,76.875886925318,3,1,1,unknown,nh,unknown,unknown,,Kerala,India,2022,March,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+10.058505914678154,76.64636492554786,3,2,4,unknown,nh,unknown,unknown,,Kerala,India,2022,March,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+9.955551623713422,76.5594075768766,3,2,3,unknown,or,unknown,unknown,,Kerala,India,2022,March,-1,others,car,others,unknown,mendeley_india_2022_2023
+31.63504378170524,76.77955354651563,3,2,14,unknown,or,unknown,unknown,,Himachal Pradesh,India,2022,March,-1,vehicle overturn,bus,vehicle overturn,unknown,mendeley_india_2022_2023
+28.47243249625412,77.10280302306421,4,4,1,unknown,or,unknown,unknown,,Haryana,India,2022,March,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+28.29757364132327,76.86837399663595,4,5,0,unknown,nh,unknown,unknown,,Haryana,India,2022,March,-1,with parked vehicle,car,with parked vehicle,unknown,mendeley_india_2022_2023
+29.87432755455267,77.89471485225786,3,1,1,unknown,or,unknown,unknown,,Uttarakhand,India,2022,March,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+21.199324620235608,81.2887682600112,4,4,0,unknown,sh,unknown,unknown,,Chhattisgarh,India,2022,March,-1,run off road,truck,run off road,unknown,mendeley_india_2022_2023
+27.298943064764845,75.95762115840584,4,3,0,unknown,nh,unknown,unknown,,Rajasthan,India,2022,March,-1,hit from side,two wheeler,hit from side,unknown,mendeley_india_2022_2023
+18.21815163836048,79.98216386293753,4,6,2,unknown,or,unknown,unknown,,Telangana,India,2022,March,-1,with parked vehicle,auto rickshaw,with parked vehicle,unknown,mendeley_india_2022_2023
+21.20426880104254,79.14620422583027,3,1,2,unknown,nh,unknown,unknown,,Maharashtra,India,2022,March,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+33.30045710490115,74.41128186730069,4,5,1,unknown,or,unknown,unknown,,Jammu,India,2022,March,-1,vehicle overturn,car,vehicle overturn,unknown,mendeley_india_2022_2023
+25.606649196412548,85.16517591163063,4,3,0,unknown,or,unknown,unknown,,Bihar,India,2022,March,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+18.39892041913737,73.84935979276045,3,1,3,unknown,nh,unknown,unknown,,Maharashtra,India,2022,March,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+10.87206032990684,76.89348210572516,3,2,7,unknown,nh,unknown,unknown,,Tamil Nadu,India,2022,March,-1,with parked vehicle,van,with parked vehicle,unknown,mendeley_india_2022_2023
+25.10031536069514,76.67646540999337,3,1,1,unknown,nh,unknown,unknown,,Rajasthan,India,2022,March,-1,others,car,others,unknown,mendeley_india_2022_2023
+25.101947583026973,76.6731180130028,3,1,2,unknown,nh,unknown,unknown,,Rajasthan,India,2022,March,-1,others,tractor,others,unknown,mendeley_india_2022_2023
+13.050848763275782,80.0947979752743,3,1,2,unknown,sh,unknown,unknown,,Tamil Nadu,India,2022,March,-1,run off road,two wheeler,run off road,unknown,mendeley_india_2022_2023
+17.609504860432846,74.02802490439436,4,4,15,unknown,nh,unknown,unknown,,Maharashtra,India,2022,March,-1,run off road,truck,run off road,unknown,mendeley_india_2022_2023
+17.555017076256856,82.84478078739808,3,2,1,unknown,nh,unknown,unknown,,Andhra Pradesh,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+23.207140010932616,81.41677662765933,4,3,28,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,March,-1,vehicle overturn,bus,vehicle overturn,unknown,mendeley_india_2022_2023
+25.956761504018843,82.71131150731956,4,4,1,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,March,-1,run off road,tractor,run off road,unknown,mendeley_india_2022_2023
+23.231864541961247,77.45041074030301,3,2,0,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,March,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+22.430437925963226,75.61669537388278,3,1,2,unknown,nh,unknown,unknown,,Madhya Pradesh,India,2022,March,-1,with parked vehicle,car,with parked vehicle,unknown,mendeley_india_2022_2023
+29.033168315618305,78.5706426813862,3,2,0,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,March,-1,fixed object collision,tractor,fixed object collision,unknown,mendeley_india_2022_2023
+10.90188754347919,77.35709665574765,4,4,0,unknown,sh,unknown,unknown,,Tamil Nadu,India,2022,March,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+19.20476538193532,72.86441892019303,3,1,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+19.182147545682533,72.81874827513124,3,1,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+12.6827308747718,79.98521902790553,3,2,0,unknown,sh,unknown,unknown,,Tamil Nadu,India,2022,March,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+28.833243263781423,77.57414318476498,3,1,1,unknown,sh,unknown,unknown,,Uttar Pradesh,India,2022,March,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+16.682241723631137,80.39168244486339,3,1,0,unknown,or,unknown,unknown,,Andhra Pradesh,India,2022,March,-1,others,lorry,others,unknown,mendeley_india_2022_2023
+25.173355421508276,75.81972366517368,3,2,0,unknown,or,unknown,unknown,,Rajasthan,India,2022,March,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+18.534999658377465,83.19826114137548,3,1,0,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,March,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+17.000592653821027,73.77712806029851,3,2,4,unknown,nh,unknown,unknown,,Maharashtra,India,2022,March,-1,vehicle overturn,suv,vehicle overturn,unknown,mendeley_india_2022_2023
+19.032645423077582,73.02942374993484,3,1,1,unknown,nh,unknown,unknown,,Maharashtra,India,2022,March,-1,hit from back,truck,hit from back,unknown,mendeley_india_2022_2023
+17.29688453077931,76.37495067788755,4,5,0,unknown,nh,unknown,unknown,,Karnataka,India,2022,March,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+15.633147275421006,76.56589681159844,4,4,16,unknown,sh,unknown,unknown,,Karnataka,India,2022,March,-1,run off road,tractor,run off road,unknown,mendeley_india_2022_2023
+22.67603178168848,75.94522481989529,3,1,0,unknown,nh,unknown,unknown,,Madhya Pradesh,India,2022,March,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+25.76209446884033,75.38625216638773,3,1,0,unknown,or,unknown,unknown,,Rajasthan,India,2022,March,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+16.895063126476742,80.11560317781093,4,5,1,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,March,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+28.6176937443294,77.31168964686108,3,1,1,unknown,or,unknown,unknown,,Delhi,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+22.710742787060603,82.50931693292135,4,3,0,unknown,sh,unknown,unknown,,Chhattisgarh,India,2022,March,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+17.86628118850109,83.19152640175578,4,3,0,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,March,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+10.84905403327252,77.44744409508702,3,1,0,unknown,sh,unknown,unknown,,Tamil Nadu,India,2022,March,-1,vehicle overturn,two wheeler,vehicle overturn,unknown,mendeley_india_2022_2023
+22.601893290143234,88.37383577308988,3,1,0,unknown,sh,unknown,unknown,,West Bengal,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+22.51956382145056,88.38301300833446,3,1,0,unknown,or,unknown,unknown,,West Bengal,India,2022,March,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+23.30257872827068,77.40437085008443,4,3,2,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,March,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+17.828370956174,83.3704920236744,3,1,1,unknown,or,unknown,unknown,,Andhra Pradesh,India,2022,March,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+13.085424120268678,77.55399352966118,3,1,0,unknown,or,unknown,unknown,,Karnataka,India,2022,March,-1,run off road,two wheeler,run off road,unknown,mendeley_india_2022_2023
+8.699304833692288,76.87413032082067,3,1,2,unknown,or,unknown,unknown,,Kerala,India,2022,March,-1,with parked vehicle,car,with parked vehicle,unknown,mendeley_india_2022_2023
+26.48141084467203,89.50661291551545,4,3,5,unknown,or,unknown,unknown,,West Bengal,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+19.42937203559203,81.76036041919969,4,5,17,unknown,nh,unknown,unknown,,Chhattisgarh,India,2022,March,-1,head on collision,tractor,head on collision,unknown,mendeley_india_2022_2023
+30.05735761999651,76.87996493850258,3,2,10,unknown,nh,unknown,unknown,,Haryana,India,2022,March,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+18.449707400024923,83.57664217942568,4,3,1,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,March,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+26.779220358840597,80.99173130626232,4,3,0,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,March,-1,hit from back,car,hit from back,unknown,mendeley_india_2022_2023
+13.303354608979705,77.55850068631615,3,2,0,unknown,or,unknown,unknown,,Karnataka,India,2022,March,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+12.98598086079149,77.6906853405282,3,1,7,unknown,nh,unknown,unknown,,Karnataka,India,2022,March,-1,with parked vehicle,bus,with parked vehicle,unknown,mendeley_india_2022_2023
+17.42939031894922,78.40337078144518,3,1,0,unknown,or,unknown,unknown,,Telangana,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+9.588884057588386,76.33870142902232,4,3,1,unknown,or,unknown,unknown,,Kerala,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+12.90132392464512,77.57327142335227,3,1,2,unknown,or,unknown,unknown,,Karnataka,India,2022,March,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+14.091201794191328,77.28334785048443,4,8,25,unknown,sh,unknown,unknown,,Karnataka,India,2022,March,-1,run off road,bus,run off road,unknown,mendeley_india_2022_2023
+25.73528404547904,81.8319099160402,3,2,1,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,March,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+19.451565504072555,72.81717005034415,3,1,1,unknown,or,unknown,unknown,,Maharashtra,India,2022,March,-1,others,bicycle,others,unknown,mendeley_india_2022_2023
+19.065974182720065,72.84628105564998,3,1,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+24.678680517555648,83.23432439854633,4,3,1,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,March,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+28.45316731819581,77.03035134919776,3,2,0,unknown,nh,unknown,unknown,,Haryana,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+27.36293399918115,76.76680149484488,3,2,0,unknown,sh,unknown,unknown,,Rajasthan,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+27.89165081734564,76.29406000600738,4,3,3,unknown,sh,unknown,unknown,,Rajasthan,India,2022,March,-1,with parked vehicle,car,with parked vehicle,unknown,mendeley_india_2022_2023
+27.15788653014015,76.70106350691624,3,1,0,unknown,nh,unknown,unknown,,Rajasthan,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+25.60421636264345,75.16468547655597,3,2,5,unknown,sh,unknown,unknown,,Rajasthan,India,2022,March,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+30.83528544322029,76.19317304364307,3,1,2,unknown,nh,unknown,unknown,,Punjab,India,2022,March,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+22.7306388647458,75.90297829499102,3,1,1,unknown,sh,unknown,unknown,,Madhya Pradesh,India,2022,March,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+22.817791022111532,75.92631838853163,3,1,0,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+11.022633201492065,76.02460531758915,3,2,0,unknown,sh,unknown,unknown,,Kerala,India,2022,March,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+15.386857225098757,73.87488157173907,3,2,1,unknown,nh,unknown,unknown,,Goa,India,2022,March,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+18.74894959298032,73.87303015246229,3,1,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,March,-1,head on collision,truck,head on collision,unknown,mendeley_india_2022_2023
+18.712167579022104,73.84833083894642,3,1,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+8.425114026256335,76.96239452051852,3,2,0,unknown,nh,unknown,unknown,,Kerala,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+10.972996028122315,76.85939808424197,3,2,0,unknown,or,unknown,unknown,,Tamil Nadu,India,2022,March,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+26.92560141747501,80.71326575663424,4,3,1,unknown,nh,unknown,unknown,,Uttar Pradesh,India,2022,March,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+18.50775263416563,73.78094308026502,3,1,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,March,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+18.52364327565652,73.61912720298396,3,1,4,unknown,sh,unknown,unknown,,Maharashtra,India,2022,March,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+28.64956655017259,77.26835112560862,3,1,1,unknown,or,unknown,unknown,,Delhi,India,2022,March,-1,run off road,two wheeler,run off road,unknown,mendeley_india_2022_2023
+23.44497179629504,77.5908366379383,3,1,2,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,March,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+26.944745583993694,71.17748065615804,3,1,0,unknown,nh,unknown,unknown,,Rajasthan,India,2022,March,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+23.64489422323448,77.37362362570198,3,1,0,unknown,nh,unknown,unknown,,Madhya Pradesh,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+14.538681632255631,79.87098174140185,3,1,34,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,March,-1,others,bus,others,unknown,mendeley_india_2022_2023
+19.493534128994547,72.86529457913572,3,2,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+16.31620733669864,79.9089805723207,4,3,10,unknown,or,unknown,unknown,,Andhra Pradesh,India,2022,March,-1,head on collision,auto rickshaw,head on collision,unknown,mendeley_india_2022_2023
+23.622972151317818,77.43896535202445,3,1,0,unknown,nh,unknown,unknown,,Madhya Pradesh,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+16.313366889296606,79.91658201878245,4,3,10,unknown,or,unknown,unknown,,Andhra Pradesh,India,2022,March,-1,head on collision,auto rickshaw,head on collision,unknown,mendeley_india_2022_2023
+26.97329716136762,75.75200510380681,3,2,3,unknown,nh,unknown,unknown,,Rajasthan,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+20.04600488961532,73.78192209476408,3,1,1,unknown,sh,unknown,unknown,,Maharashtra,India,2022,March,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+30.995997444574527,77.16195518053911,4,3,3,unknown,or,unknown,unknown,,Himachal Pradesh,India,2022,March,-1,vehicle overturn,bus,vehicle overturn,unknown,mendeley_india_2022_2023
+28.18230078918827,76.84364266963185,3,1,1,unknown,or,unknown,unknown,,Rajasthan,India,2022,March,-1,others,bicycle,others,unknown,mendeley_india_2022_2023
+13.642311228271684,79.37428208359776,4,8,45,unknown,or,unknown,unknown,,Andhra Pradesh,India,2022,March,-1,vehicle overturn,bus,vehicle overturn,unknown,mendeley_india_2022_2023
+12.891476094655223,74.8389922271683,3,1,1,unknown,or,unknown,unknown,,Karnataka,India,2022,March,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+17.364729331569848,79.52306107787611,3,2,5,unknown,or,unknown,unknown,,Telangana,India,2022,March,-1,vehicle overturn,auto rickshaw,vehicle overturn,unknown,mendeley_india_2022_2023
+25.033442643350504,71.15309353338016,3,2,2,unknown,nh,unknown,unknown,,Rajasthan,India,2022,March,-1,hit and run,suv,hit and run,unknown,mendeley_india_2022_2023
+17.54245898655154,82.84608063207641,3,2,0,unknown,or,unknown,unknown,,Andhra Pradesh,India,2022,March,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+32.49814017838053,76.05668866434591,4,3,2,unknown,or,unknown,unknown,,Himachal Pradesh,India,2022,March,-1,run off road,car,run off road,unknown,mendeley_india_2022_2023
+17.509872371083986,78.36186632666866,3,1,0,unknown,or,unknown,unknown,,Telangana,India,2022,March,-1,with parked vehicle,auto rickshaw,with parked vehicle,unknown,mendeley_india_2022_2023
+33.18350949098157,74.1436194735346,3,1,56,unknown,or,unknown,unknown,,Jammu,India,2022,March,-1,vehicle overturn,bus,vehicle overturn,unknown,mendeley_india_2022_2023
+19.997540139104625,73.84619243807843,3,1,0,unknown,sh,unknown,unknown,,Maharashtra,India,2022,March,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+19.995635061963444,73.80014527715502,3,1,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,March,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+21.682811615194524,72.18554626754947,3,1,0,unknown,sh,unknown,unknown,,Gujarat,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+28.997203705235957,79.51982690464236,3,2,2,unknown,nh,unknown,unknown,,Uttarakhand,India,2022,March,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+18.32542130889608,78.33671289159956,4,5,1,unknown,sh,unknown,unknown,,Telangana,India,2022,March,-1,with parked vehicle,car,with parked vehicle,unknown,mendeley_india_2022_2023
+13.190783091478997,80.19027658483105,3,1,1,unknown,nh,unknown,unknown,,Tamil Nadu,India,2022,March,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+13.151971575559946,79.43306746420294,3,1,0,unknown,sh,unknown,unknown,,Tamil Nadu,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+18.302276963312497,73.97470322663037,3,1,1,unknown,or,unknown,unknown,,Maharashtra,India,2022,March,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+22.581638997335748,88.43569962072566,3,1,0,unknown,sh,unknown,unknown,,West Bengal,India,2022,March,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+22.719123211499827,75.90901828646132,4,3,0,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,March,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+15.01307210074714,79.1444151537734,3,2,3,unknown,nh,unknown,unknown,,Andhra Pradesh,India,2022,March,-1,with parked vehicle,car,with parked vehicle,unknown,mendeley_india_2022_2023
+27.15083110001251,78.40875398690227,4,5,1,unknown,sh,unknown,unknown,,Uttar Pradesh,India,2022,March,-1,with parked vehicle,pick up,with parked vehicle,unknown,mendeley_india_2022_2023
+28.62594267821742,77.21703786094925,3,1,0,unknown,or,unknown,unknown,,Delhi,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+19.121374247652373,73.24219155935228,3,1,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,March,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+29.692679266873924,79.26730347942578,4,3,4,unknown,or,unknown,unknown,,Uttarakhand,India,2022,April,-1,vehicle overturn,car,vehicle overturn,unknown,mendeley_india_2022_2023
+15.771109039806737,78.29277991268702,3,2,2,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,April,-1,others,bus,others,unknown,mendeley_india_2022_2023
+22.5258797785175,88.39572396277454,3,1,1,unknown,sh,unknown,unknown,,West Bengal,India,2022,April,-1,others,truck,others,unknown,mendeley_india_2022_2023
+33.76023112882418,74.09532449203185,4,9,4,unknown,or,unknown,unknown,,Jammu,India,2022,April,-1,vehicle overturn,van,vehicle overturn,unknown,mendeley_india_2022_2023
+20.386849301378763,84.75951006419386,3,1,15,unknown,nh,unknown,unknown,,Odisha,India,2022,April,-1,others,bus,others,unknown,mendeley_india_2022_2023
+12.330894102290552,78.64516600099078,4,7,14,unknown,or,unknown,unknown,,Tamil Nadu,India,2022,April,-1,vehicle overturn,truck,vehicle overturn,unknown,mendeley_india_2022_2023
+22.53473426703114,88.35349413112056,3,1,1,unknown,or,unknown,unknown,,West Bengal,India,2022,April,-1,with parked vehicle,two wheeler,with parked vehicle,unknown,mendeley_india_2022_2023
+14.259495209831885,76.34745630421739,3,2,1,unknown,nh,unknown,unknown,,Karnataka,India,2022,April,-1,hit from back,car,hit from back,unknown,mendeley_india_2022_2023
+13.5964583824096,79.468585292512,3,2,0,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,April,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+17.8740683869601,83.0790461056656,4,3,0,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,April,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+17.62550225814061,83.08718008575381,3,1,1,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,April,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+19.13533197445404,72.85494317192074,3,2,1,unknown,or,unknown,unknown,,Maharashtra,India,2022,April,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+28.552632789117965,79.90025737886869,3,2,8,unknown,nh,unknown,unknown,,Uttar Pradesh,India,2022,April,-1,fixed object collision,van,fixed object collision,unknown,mendeley_india_2022_2023
+31.66970962001833,77.06586802710562,3,1,38,unknown,nh,unknown,unknown,,Himachal Pradesh,India,2022,April,-1,fixed object collision,bus,fixed object collision,unknown,mendeley_india_2022_2023
+25.092960195726874,73.46160638222635,3,1,0,unknown,sh,unknown,unknown,,Rajasthan,India,2022,April,-1,vehicle overturn,car,vehicle overturn,unknown,mendeley_india_2022_2023
+10.981239408019407,78.77209130515581,3,1,7,unknown,nh,unknown,unknown,,Tamil Nadu,India,2022,April,-1,hit from back,van,hit from back,unknown,mendeley_india_2022_2023
+28.62602923604718,77.12056827917954,3,1,0,unknown,or,unknown,unknown,,Delhi,India,2022,April,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+22.569819011113804,72.95995977859526,3,1,15,unknown,or,unknown,unknown,,Gujarat,India,2022,April,-1,with parked vehicle,bus,with parked vehicle,unknown,mendeley_india_2022_2023
+23.299427266699663,70.40345904842641,4,3,0,unknown,nh,unknown,unknown,,Gujarat,India,2022,April,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+30.15060831797989,78.59925397495051,4,3,0,unknown,nh,unknown,unknown,,Uttarakhand,India,2022,April,-1,vehicle overturn,truck,vehicle overturn,unknown,mendeley_india_2022_2023
+28.67912541700529,77.09443602339877,3,1,2,unknown,or,unknown,unknown,,Delhi,India,2022,April,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+26.459541143422,80.24767007985751,3,1,2,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,April,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+18.536993846113365,74.03235874368784,3,2,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,April,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+16.580804903849405,80.89312210420972,3,1,1,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,April,-1,run off road,two wheeler,run off road,unknown,mendeley_india_2022_2023
+13.183598472157184,80.23440682082393,3,2,0,unknown,or,unknown,unknown,,Tamil Nadu,India,2022,April,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+13.171279357726563,80.2439789680553,3,1,0,unknown,or,unknown,unknown,,Tamil Nadu,India,2022,April,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+15.281800721919511,75.058526902019,4,3,2,unknown,nh,unknown,unknown,,Karnataka,India,2022,April,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+8.723635248478216,77.02141618446213,3,1,0,unknown,or,unknown,unknown,,Kerala,India,2022,April,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+22.720453428245552,75.86160460073096,3,2,3,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,April,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+16.423952188523433,80.86229319889544,3,1,4,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,April,-1,hit from back,car,hit from back,unknown,mendeley_india_2022_2023
+30.71302555473968,76.7310651754111,3,1,3,unknown,or,unknown,unknown,,Chandigarh,India,2022,April,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+17.50621987331073,78.50462883692596,3,1,0,unknown,or,unknown,unknown,,Telangana,India,2022,April,-1,head on collision,pedestrian,head on collision,unknown,mendeley_india_2022_2023
+22.239040864246256,70.80054155721797,3,1,0,unknown,or,unknown,unknown,,Gujarat,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+22.76773947655036,76.30006755515738,4,3,0,unknown,sh,unknown,unknown,,Madhya Pradesh,India,2022,April,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+18.669361372986447,73.70523150874553,4,4,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,April,-1,hit from back,car,hit from back,unknown,mendeley_india_2022_2023
+18.57622652992348,73.96439239883848,3,1,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,April,-1,head on collision,pedestrian,head on collision,unknown,mendeley_india_2022_2023
+23.169829884385884,77.32106913299467,3,1,0,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,April,-1,vehicle overturn,two wheeler,vehicle overturn,unknown,mendeley_india_2022_2023
+12.88591495582588,80.08040687151578,3,2,0,unknown,nh,unknown,unknown,,Tamil Nadu,India,2022,April,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+23.276018511391488,77.41485091850154,3,1,2,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,April,-1,others,pedestrian,others,unknown,mendeley_india_2022_2023
+22.70291816153943,76.12554753043058,4,3,0,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+26.46168600616486,80.26142451959889,3,1,6,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,April,-1,vehicle overturn,suv,vehicle overturn,unknown,mendeley_india_2022_2023
+19.598982977379222,81.66725013695202,3,1,2,unknown,nh,unknown,unknown,,Chhattisgarh,India,2022,April,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+21.56119083802376,70.69380270430669,3,1,1,unknown,sh,unknown,unknown,,Gujarat,India,2022,April,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+12.872029863590946,74.86383181736954,3,1,0,unknown,nh,unknown,unknown,,Karnataka,India,2022,April,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+26.201229579749192,79.81247657221951,4,3,4,unknown,nh,unknown,unknown,,Uttar Pradesh,India,2022,April,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+18.637106819015163,73.84988079329204,3,1,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,April,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+18.720052899904065,73.85047660624807,3,1,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+10.123612582478428,76.48036075151026,3,1,0,unknown,or,unknown,unknown,,Kerala,India,2022,April,-1,vehicle overturn,two wheeler,vehicle overturn,unknown,mendeley_india_2022_2023
+28.682779530176727,77.48174137516231,4,4,2,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,April,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+12.949288313011635,75.0718304192007,3,1,3,unknown,or,unknown,unknown,,Karnataka,India,2022,April,-1,others,car,others,unknown,mendeley_india_2022_2023
+18.52676118624109,73.85204922102443,3,1,25,unknown,nh,unknown,unknown,,Maharashtra,India,2022,April,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+26.94136818070364,81.17162240541494,4,3,0,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,April,-1,with parked vehicle,van,with parked vehicle,unknown,mendeley_india_2022_2023
+22.902650161552707,75.97796428673341,3,1,2,unknown,nh,unknown,unknown,,Madhya Pradesh,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+18.65945991780443,83.26866378153295,3,1,1,unknown,sh,unknown,unknown,,Andhra Pradesh,India,2022,April,-1,run off road,two wheeler,run off road,unknown,mendeley_india_2022_2023
+10.994733560179242,76.96875643801445,3,1,3,unknown,or,unknown,unknown,,Tamil Nadu,India,2022,April,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+23.19544452061331,74.44391666904448,4,3,20,unknown,sh,unknown,unknown,,Rajasthan,India,2022,April,-1,head on collision,bus,head on collision,unknown,mendeley_india_2022_2023
+18.831068124242652,84.27174561000847,3,2,2,unknown,sh,unknown,unknown,,Odisha,India,2022,April,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+12.676546999838552,79.99978433372533,4,3,0,unknown,sh,unknown,unknown,,Tamil Nadu,India,2022,April,-1,head on collision,lorry,head on collision,unknown,mendeley_india_2022_2023
+26.030203017950896,70.91346201393944,3,2,10,unknown,or,unknown,unknown,,Rajasthan,India,2022,April,-1,vehicle overturn,suv,vehicle overturn,unknown,mendeley_india_2022_2023
+10.905377377294188,76.9971740559451,3,2,2,unknown,nh,unknown,unknown,,Tamil Nadu,India,2022,April,-1,vehicle overturn,ambulance,vehicle overturn,unknown,mendeley_india_2022_2023
+17.408324254611227,78.65562326919091,3,2,0,unknown,or,unknown,unknown,,Telangana,India,2022,April,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+26.916443718042647,75.86306769223953,4,5,13,unknown,or,unknown,unknown,,Rajasthan,India,2022,April,-1,vehicle overturn,suv,vehicle overturn,unknown,mendeley_india_2022_2023
+26.029810713639986,92.9301888460384,4,5,5,unknown,or,unknown,unknown,,Assam,India,2022,April,-1,fixed object collision,suv,fixed object collision,unknown,mendeley_india_2022_2023
+23.01785728193693,76.72633917479718,3,2,1,unknown,sh,unknown,unknown,,Madhya Pradesh,India,2022,April,-1,hit from back,car,hit from back,unknown,mendeley_india_2022_2023
+26.359916220415357,79.8593936761911,4,4,4,unknown,nh,unknown,unknown,,Uttar Pradesh,India,2022,April,-1,hit from back,pick up,hit from back,unknown,mendeley_india_2022_2023
+11.797728841314983,79.20314770572611,3,2,4,unknown,or,unknown,unknown,,Tamil Nadu,India,2022,April,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+25.19828882143047,75.858251500867,3,1,2,unknown,or,unknown,unknown,,Rajasthan,India,2022,April,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+26.227105879573745,73.6201015735607,4,6,3,unknown,nh,unknown,unknown,,Rajasthan,India,2022,April,-1,hit from back,car,hit from back,unknown,mendeley_india_2022_2023
+19.054881955818303,72.84647030885186,3,2,1,unknown,or,unknown,unknown,,Maharashtra,India,2022,April,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+23.06743463472224,75.82225197023755,3,1,4,unknown,sh,unknown,unknown,,Madhya Pradesh,India,2022,April,-1,run off road,car,run off road,unknown,mendeley_india_2022_2023
+30.71986900643926,76.82354771827367,3,1,0,unknown,or,unknown,unknown,,Chandigarh,India,2022,April,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+30.73480019932561,76.75148064797337,3,1,0,unknown,nh,unknown,unknown,,Chandigarh,India,2022,April,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+32.53057554629484,76.38425810709141,4,3,0,unknown,or,unknown,unknown,,Himachal Pradesh,India,2022,April,-1,vehicle overturn,car,vehicle overturn,unknown,mendeley_india_2022_2023
+26.740171597463235,93.13518556287204,4,5,7,unknown,nh,unknown,unknown,,Assam,India,2022,April,-1,run off road,suv,run off road,unknown,mendeley_india_2022_2023
+19.2544764448886,77.2750422220933,3,1,4,unknown,or,unknown,unknown,,Maharashtra,India,2022,April,-1,run off road,tractor,run off road,unknown,mendeley_india_2022_2023
+22.28880880427284,73.155765072573,3,1,0,unknown,or,unknown,unknown,,Gujarat,India,2022,April,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+23.41738772247104,76.27213749049376,3,1,1,unknown,sh,unknown,unknown,,Madhya Pradesh,India,2022,April,-1,hit and run,car,hit and run,unknown,mendeley_india_2022_2023
+15.49417109049796,73.81834972748148,3,1,0,unknown,or,unknown,unknown,,Goa,India,2022,April,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+18.501875704897813,73.93945146677993,3,1,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,April,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+19.99584045699654,73.71046632576827,3,1,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,April,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+32.46665742303505,76.44948547422419,4,3,0,unknown,nh,unknown,unknown,,Himachal Pradesh,India,2022,April,-1,run off road,car,run off road,unknown,mendeley_india_2022_2023
+26.9144246821791,93.4384607461288,4,5,0,unknown,or,unknown,unknown,,Assam,India,2022,April,-1,run off road,van,run off road,unknown,mendeley_india_2022_2023
+30.70088486737961,77.82058594642874,4,4,1,unknown,or,unknown,unknown,,Uttarakhand,India,2022,April,-1,run off road,car,run off road,unknown,mendeley_india_2022_2023
+18.53890188950243,73.68393535995644,3,2,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,April,-1,fixed object collision,two wheeler,fixed object collision,unknown,mendeley_india_2022_2023
+27.894518754260805,75.5195796533422,4,11,7,unknown,sh,unknown,unknown,,Rajasthan,India,2022,April,-1,with parked vehicle,car,with parked vehicle,unknown,mendeley_india_2022_2023
+26.172500703315,80.12020879743844,4,6,11,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,April,-1,head on collision,van,head on collision,unknown,mendeley_india_2022_2023
+30.159175616700445,75.89198824181408,3,1,3,unknown,sh,unknown,unknown,,Punjab,India,2022,April,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+13.1090918133165,77.78941921897804,4,6,0,unknown,or,unknown,unknown,,Karnataka,India,2022,April,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+21.241376697864432,72.85236566026549,3,2,0,unknown,or,unknown,unknown,,Gujarat,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+23.44757243471522,77.36436802486355,3,1,0,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+12.889272287739498,77.62569230321775,3,1,0,unknown,nh,unknown,unknown,,Karnataka,India,2022,April,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+27.79935660549364,76.73894056278301,4,4,0,unknown,sh,unknown,unknown,,Rajasthan,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+25.77027691872968,71.42749308706475,3,1,3,unknown,nh,unknown,unknown,,Rajasthan,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+33.36989542597566,74.87960210454254,4,3,6,unknown,or,unknown,unknown,,Jammu,India,2022,April,-1,vehicle overturn,car,vehicle overturn,unknown,mendeley_india_2022_2023
+25.79831184514784,71.16921130348882,3,1,1,unknown,or,unknown,unknown,,Rajasthan,India,2022,April,-1,head on collision,pedestrian,head on collision,unknown,mendeley_india_2022_2023
+12.29501625188559,76.28993924551796,4,6,3,unknown,sh,unknown,unknown,,Karnataka,India,2022,April,-1,fixed object collision,suv,fixed object collision,unknown,mendeley_india_2022_2023
+23.027061511160188,72.544926989018,3,1,1,unknown,or,unknown,unknown,,Gujarat,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+25.274202246112697,73.57923514893909,4,3,69,unknown,sh,unknown,unknown,,Rajasthan,India,2022,April,-1,fixed object collision,bus,fixed object collision,unknown,mendeley_india_2022_2023
+25.83487828621875,85.33500360056412,3,1,0,unknown,or,unknown,unknown,,Bihar,India,2022,April,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+25.8388962736232,85.76681502036023,3,2,0,unknown,sh,unknown,unknown,,Bihar,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+22.962557046705843,75.52744832280665,3,1,0,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,April,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+21.82694311702633,82.0084168860238,4,5,0,unknown,or,unknown,unknown,,Chhattisgarh,India,2022,April,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+18.63941091769798,76.76402564055542,4,7,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,April,-1,head on collision,suv,head on collision,unknown,mendeley_india_2022_2023
+19.95173447938508,73.56741328905738,3,1,0,unknown,nh,unknown,unknown,,Maharashtra,India,2022,April,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+25.046374876476605,86.93369751859285,4,3,1,unknown,or,unknown,unknown,,Bihar,India,2022,April,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+24.889629573670987,86.61099563394598,4,3,0,unknown,or,unknown,unknown,,Bihar,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+22.73837868031073,75.41630565076322,3,1,1,unknown,nh,unknown,unknown,,Madhya Pradesh,India,2022,April,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+20.04593894486277,73.80579635852874,3,1,1,unknown,sh,unknown,unknown,,Maharashtra,India,2022,April,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+19.962364499644732,73.77830912895728,3,1,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+18.57898901619572,79.36551061472527,4,3,4,unknown,sh,unknown,unknown,,Telangana,India,2022,April,-1,with parked vehicle,suv,with parked vehicle,unknown,mendeley_india_2022_2023
+23.85444928204001,78.79416489774007,3,1,1,unknown,sh,unknown,unknown,,Madhya Pradesh,India,2022,April,-1,hit from back,two wheeler,hit from back,unknown,mendeley_india_2022_2023
+13.750992856158822,79.6934139700201,4,4,8,unknown,nh,unknown,unknown,,Andhra Pradesh,India,2022,April,-1,head on collision,van,head on collision,unknown,mendeley_india_2022_2023
+19.953154908495364,73.8929701909034,3,1,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,April,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+19.96305555397572,73.7787320913185,3,1,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,April,-1,run off road,two wheeler,run off road,unknown,mendeley_india_2022_2023
+20.042239217323,73.92583785052105,3,1,2,unknown,or,unknown,unknown,,Maharashtra,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+15.43987949225076,75.31420272936964,3,2,0,unknown,or,unknown,unknown,,Karnataka,India,2022,April,-1,hit and run,two wheeler,hit and run,unknown,mendeley_india_2022_2023
+23.28543455286936,79.99283903508297,4,3,0,unknown,or,unknown,unknown,,Madhya Pradesh,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+30.700775777548813,75.87145147031943,4,5,1,unknown,sh,unknown,unknown,,Punjab,India,2022,April,-1,vehicle overturn,suv,vehicle overturn,unknown,mendeley_india_2022_2023
+29.96850796266665,77.41054641219449,4,3,6,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,April,-1,run off road,car,run off road,unknown,mendeley_india_2022_2023
+18.47447111558917,73.85625672943155,3,1,5,unknown,nh,unknown,unknown,,Maharashtra,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+28.81983719440365,77.95134545025617,4,3,0,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,April,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+19.979574740467225,73.80746902150943,3,1,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,April,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+20.01247947962857,73.70822613430512,3,1,1,unknown,or,unknown,unknown,,Maharashtra,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+18.167944800968232,78.98399312247022,3,2,0,unknown,sh,unknown,unknown,,Telangana,India,2022,April,-1,fixed object collision,car,fixed object collision,unknown,mendeley_india_2022_2023
+30.16966929895964,76.7142578185512,3,1,1,unknown,sh,unknown,unknown,,Haryana,India,2022,April,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+22.591463037301,74.00111840706462,3,2,0,unknown,or,unknown,unknown,,Gujarat,India,2022,April,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+27.87732506064252,78.59079201357487,3,2,0,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,April,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
+14.60561885834924,75.646646142623,4,4,4,unknown,sh,unknown,unknown,,Karnataka,India,2022,April,-1,head on collision,car,head on collision,unknown,mendeley_india_2022_2023
+18.50282814618757,73.79273536008648,3,1,0,unknown,or,unknown,unknown,,Maharashtra,India,2022,April,-1,others,two wheeler,others,unknown,mendeley_india_2022_2023
+28.212999609199144,77.78246750806592,4,3,4,unknown,or,unknown,unknown,,Uttar Pradesh,India,2022,May,-1,hit and run,pedestrian,hit and run,unknown,mendeley_india_2022_2023
+28.24073031526176,76.81172053351116,3,1,0,unknown,nh,unknown,unknown,,Haryana,India,2022,May,-1,head on collision,two wheeler,head on collision,unknown,mendeley_india_2022_2023
