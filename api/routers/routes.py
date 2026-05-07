@@ -26,6 +26,17 @@ from api.schemas.models import RouteRiskRequest, RouteRiskResponse
 from api.services.spatial import interpolate_route
 from src.predictor import Predictor
 
+from datetime import datetime
+
+# Risk at night or monsoon change the monsoon months
+def time_multiplier():
+    h = datetime.now().hour
+    m = datetime.now().month
+    mult = 1.0
+    if h >=20 or h<=5: mult += 0.5
+    if m in [7,8,9,10]: mult+= 0.3
+    return mult
+
 log    = logging.getLogger(__name__)
 router = APIRouter(prefix="/api/v1", tags=["routes"])
 
@@ -82,6 +93,9 @@ def score_route(
         radius_m=body.radius_m,
         min_risk=body.min_risk,
     )
+
+    # Risk at night 8 to 5 or monsoon
+    result["overall_risk_score"] = min(result["overall_risk_score"]*time_multiplier(),100)
 
     return RouteRiskResponse(**result)
 

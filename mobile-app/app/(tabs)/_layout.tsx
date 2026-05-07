@@ -9,6 +9,9 @@ import { Tabs } from "expo-router";
 import { COLORS } from "../constants/colors";
 import { Text } from "react-native";
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
+
+import { Entypo, Feather, FontAwesome6, MaterialIcons } from "@expo/vector-icons";
+
 export default function TabLayout() {
    const insets = useSafeAreaInsets();
   return (
@@ -39,7 +42,7 @@ export default function TabLayout() {
         name="index"
         options={{
           title:       "Map",
-          tabBarIcon:  ({ color }) => <TabIcon emoji="🗺" color={color} />,
+          tabBarIcon:  ({ color }) => <Entypo name="map" size={24} color="white" />,
           headerTitle: "Black Spot Alert",
         }}
       />
@@ -47,7 +50,7 @@ export default function TabLayout() {
         name="route"
         options={{
           title:       "Route",
-          tabBarIcon:  ({ color }) => <TabIcon emoji="📍" color={color} />,
+          tabBarIcon:  ({ color }) => <FontAwesome6 name="route" size={24} color="white" />,
           headerTitle: "Route Planner",
         }}
       />
@@ -55,7 +58,7 @@ export default function TabLayout() {
         name="dashboard"
         options={{
           title:       "Analytics",
-          tabBarIcon:  ({ color }) => <TabIcon emoji="📊" color={color} />,
+          tabBarIcon:  ({ color }) => <MaterialIcons name="space-dashboard" size={24} color="white" />,
           headerTitle: "Analytics Dashboard",
         }}
       />
@@ -63,7 +66,7 @@ export default function TabLayout() {
         name="simulation"
         options={{
           title:       "Simulate",
-          tabBarIcon:  ({ color }) => <TabIcon emoji="▶" color={color} />,
+          tabBarIcon:  ({ color }) => <Entypo name="controller-play" size={24} color="white" />,
           headerTitle: "Simulation Mode",
         }}
       />
